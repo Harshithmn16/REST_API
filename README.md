@@ -25,7 +25,5 @@
 ![Screenshot 2024-03-12 201447](https://github.com/Harshithmn16/REST_API/assets/124524990/771d254f-ca66-4227-9c11-7c2c5d391af1)
 ### After update. 
 ![Screenshot 2024-03-12 201506](https://github.com/Harshithmn16/REST_API/assets/124524990/2bc549c4-a85c-47f1-af86-aa218552d1dd)
-
-
-
-
+## For your Information:
+> Our API manages data from two tables: POSTS (containing book details) and CATEGORIES (storing book categories). These tables are joined via a LEFT JOIN on the category ID. With our API, users can perform CRUD operations on books, viewing and modifying details such as title, author, category, and more. Test and interact with our API using Postman, leveraging HTTP methods to access specific functionalities seamlessly. Explore the power of our API to efficiently manage and retrieve book data, simplifying your application's backend needs.
