@@ -4,11 +4,11 @@
 # INSTALLATION:
 1. Clone this repository to your local machine.
 2. Import the 'phprest.sql' file into your MySQL database to create the necessary tables(Categories & Posts).
-3.Configure the database connection settings in 'config.php'.
-4.Upload the project files to your web server directory.
+3. Configure the database connection settings in 'config.php'.
+4. Upload the project files to your web server directory.
 # USAGE/WORKING:
-It contains all the essential CRUD operations.
-1.Create a book(POST).
-2.Read all data(GET).
-3.Update the data by its id (PUT).
-4.Delete book by its id(DELETE).
+### It contains all the essential CRUD operations.
+1. Create a book(POST).
+2. Read all data(GET).
+3. Update the data by its id (PUT).
+4. Delete book by its id(DELETE).
