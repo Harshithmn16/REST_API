@@ -12,3 +12,20 @@
 2. Read all data(GET).
 3. Update the data by its id (PUT).
 4. Delete book by its id(DELETE).
+# TABLES:
+### CATEGORIES.
+![Screenshot 2024-03-12 195614](https://github.com/Harshithmn16/REST_API/assets/124524990/d4c00bac-7b94-4bdf-85e5-b3e5b0d63c9b)
+### POSTS.
+![Screenshot 2024-03-12 195627](https://github.com/Harshithmn16/REST_API/assets/124524990/948064d9-7932-48cc-a507-5aafc9321768)
+# POSTMAN API CALLS AND OPERATIONS:
+### Create and read.
+![Screenshot 2024-03-12 200513](https://github.com/Harshithmn16/REST_API/assets/124524990/69b9296a-de85-4874-9d7f-1bcf1c38aa40)
+![Screenshot 2024-03-12 200536](https://github.com/Harshithmn16/REST_API/assets/124524990/832b25c5-eb67-4c61-924c-a93bd744b63e)
+### Update and read.
+![Screenshot 2024-03-12 201447](https://github.com/Harshithmn16/REST_API/assets/124524990/771d254f-ca66-4227-9c11-7c2c5d391af1)
+### After update. 
+![Screenshot 2024-03-12 201506](https://github.com/Harshithmn16/REST_API/assets/124524990/2bc549c4-a85c-47f1-af86-aa218552d1dd)
+
+
+
+
